@@ -1,2 +1,2 @@
 # RustJourney
-My journey of learning rust.
+My first program in rust!
